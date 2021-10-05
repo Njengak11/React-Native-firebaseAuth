@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A simple login app with firebase as the backend",
+    "githubUrl": "https://github.com/Njengak11/React-Native-firebaseAuth"
   }
 }
